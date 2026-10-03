@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Rover" />
+  <img src="./assets/header-brutal.svg" width="100%" alt="Rover" />
 </p>
 
 <br/>
